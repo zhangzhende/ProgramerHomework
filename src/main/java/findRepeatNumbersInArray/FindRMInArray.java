@@ -5,6 +5,10 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
+ * ###找出数组中重复的数字
+ * 在一个长度为n的数组里，所有的数字都在0~n-1之间
+ * 1.找出任意一个重复数字，要快
+ * 2.找出所有重复的数字，以及对应的次数
  * @Description find repeat numbers in array ,like [1,2,3,4,5,6,1,2,3,4]==>{(1,2),(2,2),(3,2),(4,2)},find the most repeat top K
  * @ClassName FindRMInArray
  * @Author zzd

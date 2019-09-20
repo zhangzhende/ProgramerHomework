@@ -2,6 +2,13 @@ package findIn2DArray;
 
 
 /**
+ * ###二维数组中查找
+ * 在一个二维数组中，每行数字从左到右递增，每列从上到下递增，完成一个函数，输入一个数组和
+ * 和一个数判断这个数是否在这个数组里
+ *
+ * 1   3    5
+ * 2   4    6
+ * 3   6    9
  * @Description 说明类的用途
  * @ClassName FindNumIn2DArray
  * @Author zzd

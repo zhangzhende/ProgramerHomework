@@ -1,6 +1,9 @@
 package replaceStrInStringArray;
 
 /**
+ * ###数组中元素的替换
+ * 一个字符串数组，替换其中的空格项，‘ ’ ==》% 2 0
+ * 一换3
  * @Description 说明类的用途
  * @ClassName ReplaceStrInArray
  * @Author zzd
