@@ -9,7 +9,7 @@ package findIn2DArray;
  * 1   3    5
  * 2   4    6
  * 3   6    9
- * @Description 说明类的用途
+ * @Description
  * @ClassName FindNumIn2DArray
  * @Author zzd
  * @Create 2019/7/15 10:34
